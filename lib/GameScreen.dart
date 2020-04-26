@@ -56,10 +56,10 @@ class GameScreen extends StatelessWidget {
               child: Card(
                 child: Wrap( //your hand
                   children: [
-                    Peeve("hello"),
-                    Peeve("there"),
-                    Peeve("general"),
-                    Peeve("kenobi")
+                    Peeve("example"),
+                    Peeve("peeves"),
+                    Peeve("in"),
+                    Peeve("your hand")
                   ],
                 ),
               ),
